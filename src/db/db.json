@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Timmy Wiza",
+    "phone": "1-815-716-0219",
+    "email": "Baron.Goodwin@yahoo.com",
+    "job": "District Optimization Administrator"
+  },
+  {
+    "name": "Raquel Connelly",
+    "phone": "1-218-968-8523 x990",
+    "email": "Mylene_Quigley80@yahoo.com",
+    "job": "Central Division Orchestrator"
+  },
+  {
+    "name": "Kristie Schulist",
+    "phone": "648.443.7851 x530",
+    "email": "Andres77@yahoo.com",
+    "job": "Corporate Applications Facilitator"
+  },
+  {
+    "name": "Alicia Goodwin II",
+    "phone": "1-908-490-8062",
+    "email": "Ronny.Gottlieb@hotmail.com",
+    "job": "Central Interactions Analyst"
+  },
+  {
+    "name": "Alexander Skiles",
+    "phone": "683.390.3811 x92198",
+    "email": "Keegan4@hotmail.com",
+    "job": "National Infrastructure Planner"
+  }
+]
